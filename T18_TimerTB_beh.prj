@@ -1,0 +1,2 @@
+vhdl work "T18_timer.vhd"
+vhdl work "T18_TimerTB.vhd"

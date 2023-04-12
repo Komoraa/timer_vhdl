@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/xilinixsshare/projekt/T18_TimerTB_isim_beh.exe" -prj "/home/ise/xilinixsshare/projekt/T18_TimerTB_beh.prj" "work.T18_TimerTB" 

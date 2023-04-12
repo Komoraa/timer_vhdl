@@ -1,0 +1,2 @@
+vhdl isim_temp "T18_timer.vhd"
+vhdl isim_temp "T18_TimerTB.vhd"

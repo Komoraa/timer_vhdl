@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/xilinixsshare/projekt/T18_timer.vhd 2022/06/08.15:05:11 P.20131013
+EN work/T18_Timer 1654700722 FL /home/ise/xilinixsshare/projekt/T18_timer.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/T18_Timer/rt1 1654700723 \
+      FL /home/ise/xilinixsshare/projekt/T18_timer.vhd EN work/T18_Timer 1654700722
